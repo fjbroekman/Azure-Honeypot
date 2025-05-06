@@ -149,5 +149,5 @@
 
 <h2 align="center"> ⚠️ Please Note </h2>
 
-I used a secure environment to conduct this project on leaving the Virtual Machine on for only 30 min to collect enough logs. **DISABLING YOUR FIREWALL ALLOWS ANYONE FROM ANYWHERE TO CONNECT TO YOUR MACHINE AND THEREFORE IT SHOULD ONLY BE DONE IN A SAVE ENVIROnMENT**
+I used a secure environment to conduct this project on leaving the Virtual Machine on for only 30 min to collect enough logs. **DISABLING YOUR FIREWALL ALLOWS ANYONE FROM ANYWHERE TO CONNECT TO YOUR MACHINE AND THEREFORE IT SHOULD ONLY BE DONE IN A SAVE ENVIRONMENT**
 
